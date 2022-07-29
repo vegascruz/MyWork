@@ -16,12 +16,12 @@
 
   h1 {
     display: inline-block; 
-    width: 30%;
+    width: 40%;
   }
   
   .navbar {
     display: block;
-    width: 75%;
+    width: 60%;
     text-align: right;
   }
 
