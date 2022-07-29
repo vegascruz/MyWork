@@ -41,5 +41,8 @@
     margin: 3px;
     font-size: larger;
   }
+  .line{
+    border-bottom: solid;
+  }
 
 
